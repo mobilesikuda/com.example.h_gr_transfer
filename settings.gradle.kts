@@ -1,0 +1,1 @@
+rootProject.name = "com.example.h_gr_transfer"
